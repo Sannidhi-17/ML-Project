@@ -6,6 +6,10 @@ Author-email: sannidhibookseller@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: catboost
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: dill
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
