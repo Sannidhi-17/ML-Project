@@ -1,0 +1,13 @@
+2025-02-11 11:56:32,398 - INFO - data_ingestion.py - Line: 23 - Enter the data ingestion method or componenent
+2025-02-11 11:56:32,400 - INFO - data_ingestion.py - Line: 26 - read the data into dataset
+2025-02-11 11:56:32,402 - INFO - data_ingestion.py - Line: 31 - Train test bsplit initiated
+2025-02-11 11:56:32,404 - INFO - data_ingestion.py - Line: 37 - Ingestion of data completed
+2025-02-11 11:56:32,405 - INFO - data_transformation.py - Line: 77 - Read train and test data completed
+2025-02-11 11:56:32,405 - INFO - data_transformation.py - Line: 78 - Obtainingbpreprocessing object
+2025-02-11 11:56:32,405 - INFO - data_transformation.py - Line: 55 - Categorical columns encoding completed
+2025-02-11 11:56:32,405 - INFO - data_transformation.py - Line: 56 - Numerical columns encoding completed
+2025-02-11 11:56:32,405 - INFO - data_transformation.py - Line: 93 - Applying preprocessing object on training dataframe and testing dataframe 
+2025-02-11 11:56:32,411 - INFO - data_transformation.py - Line: 106 - Saved Preprocessing object
+2025-02-11 11:56:32,412 - INFO - model_trainer.py - Line: 30 - Split training and test input data
+2025-02-11 11:56:44,482 - INFO - model_trainer.py - Line: 101 - best_model: GradientBoostingRegressor(learning_rate=0.05, n_estimators=128, subsample=0.6)
+2025-02-11 11:56:44,482 - INFO - model_trainer.py - Line: 106 - Best model is found for train and test model
